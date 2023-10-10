@@ -24,7 +24,6 @@ Neste perfil do GitHub, você encontrará:
 ## Como entrar em contato comigo
 
 - 📧 Você pode me contatar por e-mail em [arthur_kairan@hotmail.com](arthurkairan@gmail.com).
-- 🐦 Me siga no [Twitter](https://twitter.com/KairanArthur) para acompanhar minhas atualizações e pensamentos e muito mais.
 
 ## Obrigado por visitar!
 
