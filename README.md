@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil do GitHub
 
-Olá, sou Arthur Kairan, um estudante de 24 anos cursando Bacharelado em Tecnologia da Informação (BTI) na UFERSA, campus Pau dos Ferros. 
+Olá, sou Arthur Kairan, um estudante de 26 anos cursando Bacharelado em Tecnologia da Informação (BTI) na UFERSA, campus Pau dos Ferros. 
 
 ## Sobre mim
 
